@@ -10,17 +10,16 @@
 
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="SMS para numero deseado:"/>
+        android:text="SMS para numero en lista Blanca:"/>
 
     <EditText
         android:id="@+id/editText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:backgroundTint="#C9A9F1"
         android:inputType= "text" />
 
     <TextView
@@ -33,14 +32,13 @@
         android:id="@+id/textView4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="SMS para numero no deseado:" />
+        android:text="SMS para numero en lista Negra:" />
 
     <EditText
         android:id="@+id/editText2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:backgroundTint="#C9A9F1"
         android:inputType="text"/>
 
     <TextView
@@ -54,14 +52,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:backgroundTint="@color/purple_200"
         android:text="Guardar" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundTint="@color/purple_200"
         android:text="Atras" />
 
 </LinearLayout>

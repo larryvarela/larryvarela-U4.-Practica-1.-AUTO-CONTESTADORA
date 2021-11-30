@@ -13,8 +13,7 @@
         android:id="@+id/button1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:backgroundTint="@color/purple_200"
+        android:layout_marginTop="10dp"
         android:text="SMS para autocontestadora"
         />
 
@@ -22,17 +21,22 @@
         android:id="@+id/button2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:backgroundTint="@color/purple_200"
-        android:text="Lista de numeros no deseados" />
+        android:layout_marginTop="10dp"
+        android:text="Lista Negra" />
 
     <Button
         android:id="@+id/button3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
-        android:backgroundTint="@color/purple_200"
-        android:text="Lista de numeros deseados" />
+        android:layout_marginTop="10dp"
+        android:text="Lista Blanca" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Activar" />
 
 
 </LinearLayout>

@@ -21,7 +21,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:backgroundTint="#C9A9F1"
         android:inputType="textPersonName"/>
 
     <TextView
@@ -35,21 +34,18 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:backgroundTint="#C9A9F1"
         android:inputType="phone" />
 
     <Button
         android:id="@+id/button8"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundTint="@color/purple_200"
-        android:text="Agregar a la lista" />
+        android:text="Agregar a la lista Negra" />
 
     <Button
         android:id="@+id/button7"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundTint="@color/purple_200"
         android:text="Regresar"/>
 
     <TextView

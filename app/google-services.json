@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "362778326094",
-    "project_id": "ladm-u4-p1-autocontestad-5eb2e",
-    "storage_bucket": "ladm-u4-p1-autocontestad-5eb2e.appspot.com"
+    "project_number": "517261015493",
+    "project_id": "autocontestadora-f243d",
+    "storage_bucket": "autocontestadora-f243d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:362778326094:android:0404811ceafb16f26aff1f",
+        "mobilesdk_app_id": "1:517261015493:android:c137a3470f0659c9ea73ac",
         "android_client_info": {
           "package_name": "mx.tecnm.tepic.ladm_u4_practica1_autocontestadora"
         }
       },
       "oauth_client": [
         {
-          "client_id": "362778326094-h950mhom8p0ud3v4cbjdke97mnvv0b7b.apps.googleusercontent.com",
+          "client_id": "517261015493-n2l8sg5fubj7fs6bu5t1stnu68jbr9ni.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB94_A3VHgPNyIVuKa9D6KizM8fcMCVDco"
+          "current_key": "AIzaSyD03RP8kdzQ_2pAbS0sOsQaSfQVqpE80Y8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "362778326094-h950mhom8p0ud3v4cbjdke97mnvv0b7b.apps.googleusercontent.com",
+              "client_id": "517261015493-n2l8sg5fubj7fs6bu5t1stnu68jbr9ni.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
